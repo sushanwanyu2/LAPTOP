@@ -7,7 +7,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# 参数配置
+# 参数配置12
 # 让图片中可以显示中文
 plt.rcParams['font.sans-serif'] = ('FangSong')
 
