@@ -1,0 +1,84 @@
+pycharm使用
+注释： 单行、多行
+
+变量：
+    格式：变量名=值
+    起名：命名规范
+值
+数据类型
+int float
+str bool
+类型转换
+a=10
+str(a)
+name=input('提示语句') # 所有键盘输入的全部都是str
+
+流程控制语句：
+条件语句：
+if 条件：
+    pass
+if 条件
+    pass
+else：
+    pass
+
+if 条件：
+    pass
+elif 条件：
+    pass
+else：
+    pass
+嵌套语句
+
+循环语句：
+ while ：1.初始值 2.条件（结束） 3.变量改变
+
+    while True：
+        pass
+
+    while True：
+        ……
+        break
+
+    break，continue的区别
+
+    while……else
+
+    for
+    for i in range（n）：
+        pass
+
+    range（stop）：0-stop-1
+    range（start，stop）：start- stop-1
+    range（start，stop，step）：start- stop-1，步长为step
+
+    for……else
+
+    嵌套：
+    *
+    **
+    ***
+    ****
+    *****
+    while n<=5: 外层控制行数
+        ……
+        while m<n:
+            print('*',end='')
+            m+=1
+        n+=1
+        print()
+'''
+list:允许重复,有序,有下标[]
+tuple:允许重复,里面的元素不能增删改,只能查看()
+dict:键值对存在,  键:唯一,值:允许重复{}
+set:不允许重复,无序{}
+'''
+'''
+类型转换问题:
+list---->tuple,set(长度可能发生改变)
+tuple---->list,set
+set---->list,tuple
+dict---->list,tuple,set 只是将字典的键放到列表里面
+list---->dict 得有特殊要求list1=[('a',10),('b',20),('v',34)]
+print(dict(list1))  可以转换
+'''
