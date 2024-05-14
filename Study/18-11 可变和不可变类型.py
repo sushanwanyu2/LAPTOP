@@ -32,6 +32,13 @@ show_book()
 add_book('三国演义')
 
 # 可变和不可变
+'''
+可变和不可变:
+不可变:当改变值的时候,地址发生了改变
+    类型:int,str,bool,float,tuple
+可变类型：里面的内容发生了改变，但是地址没有发生改变。
+    类型:list,dict,set
+'''
 a = 100
 print(id(a))
 a = 80
