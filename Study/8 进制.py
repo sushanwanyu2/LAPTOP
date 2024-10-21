@@ -39,10 +39,10 @@ n = 0x558
 result = int(n)
 print(result)
 
-result=bin(n)
+result = bin(n)
 print(result)
 
-x=0b10101011000
+x = 0b10101011000
 print(bin(x))
 print(oct(n))
 print(hex(n))

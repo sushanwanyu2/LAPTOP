@@ -107,3 +107,8 @@ f-string在花括号中可以使用可执行的程序语句，这使得在格式
 
 Python版本在3.6以上的小伙们，推荐多使用f-string这种新的字符串格式化方法。
 '''
+from datetime import datetime
+
+print(f'今天是{datetime.today()}')
+print(f'今天是{datetime.today():%Y-%m-%d}')
+print(f'{{今天}}是{datetime.today():%Y-%m-%d}')

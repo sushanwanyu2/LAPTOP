@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adbe2b1c-0ca0-4850-99b9-3ab1093f0f31" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Study/7 格式化输出.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Study/7 格式化输出.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Study/8 进制.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Study/8 进制.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数据分析/作业1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../数据分析/作业1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,15 +35,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/pythonProjects",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/pythonProjects&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -59,6 +62,7 @@
       <updated>1715352771906</updated>
       <workItem from="1715352773012" duration="70000" />
       <workItem from="1715353987429" duration="12000" />
+      <workItem from="1729492502620" duration="67000" />
     </task>
     <servers />
   </component>
