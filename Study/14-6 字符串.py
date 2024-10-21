@@ -39,3 +39,8 @@ result = s.upper()
 s = 'hello world'
 result = s.capitalize()
 print(result)
+
+
+'''
+cyc
+'''
